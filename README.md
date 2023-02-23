@@ -16,8 +16,9 @@
 - 🌱 I’m currently learning **React**
 - 🔎 I'm looking for a job
 - 📄 Know about my experiences [CV](https://cv.hexlet.io/resumes/2073)
-- 📫 Reach me by [Gmail](mailto:klochkov.ivan.sergeevich@gmail.com), [Telegram](https://t.me/Dokivan) or [email](mailto:pigargeorge@gmail.com) 
+- 📫 Reach me by [email](mailto:klochkov.ivan.sergeevich@gmail.com), [Telegram](https://t.me/Dokivan) or [email](mailto:pigargeorge@gmail.com) 
 - 🌍 I speak Russian and English
+- ⚡ Fun fact: I buy my electronic devices for free
 
 ### Languages and tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="js" width="40" height="40"/>&nbsp;
