@@ -18,6 +18,7 @@
 - 📄 Know about my experiences [CV](https://cv.hexlet.io/resumes/2073)
 - 📫 Reach me by [email](mailto:klochkov.ivan.sergeevich@gmail.com), [Telegram](https://t.me/Dokivan) or [email](mailto:pigargeorge@gmail.com) 
 - 🌍 I speak Russian and English
+- ✈️ I'm ready to relocate because I love to travel too much
 - ⚡ Fun fact: I buy my electronic devices for free
 
 ### Languages and tools
