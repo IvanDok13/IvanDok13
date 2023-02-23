@@ -1,4 +1,39 @@
-### Hi there 👋
+<div id="header" align="center">
+	<h1>Good day! My name is Ivan U+1F334</h1>
+	<h3>JavaScript Frontend Developer</h3>
+</div>
+
+<div id="socials" align="center">
+	<a href="https://mail.google.com/mail/u/1/#inbox">
+		<img src="https://img.shields.io/badge/gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+	</a>
+	<a href="https://t.me/Dokivan">
+		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+	</a>
+</div>
+
+### About me
+- 🌱 I’m currently learning **React**
+- 🔎 I'm looking for a job
+- 📄 Know about my experiences [CV](https://cv.hexlet.io/resumes/2073)
+- 📫 Reach me by [Gmail](mailto:klochkov.ivan.sergeevich@gmail.com), [Telegram](https://t.me/Dokivan) or [email](mailto:pigargeorge@gmail.com) 
+- 🌍 I speak Russian and English
+
+### Languages and tools
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="js" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="html" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="css" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="react" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="git" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="npm" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="node" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" title="eslint" width="40" height="40"/>&nbsp;
+          
+### My stat
+<div id="stat" align="center">
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IvanDok13&theme=default"/>
+</div>
+
 
 <!--
 **IvanDok13/IvanDok13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
