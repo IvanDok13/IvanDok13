@@ -30,7 +30,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="npm" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="node" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" title="eslint" width="40" height="40"/>&nbsp;
-          
+
+📊 &nbsp;**This week I spent my time on**
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=	IvanDok13	&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+
+
 ### My stat
 <div id="stat" align="center">
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IvanDok13&theme=default"/>
