@@ -36,11 +36,11 @@
 <div id="stat" align="center">
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IvanDok13&theme=default"/>
 </div>
-### I am CodeWarrior
+
+### My CodeWarrior profile
 <div id="CodeWars" align="center">
 	<img src="https://www.codewars.com/users/IvanDok/badges/large"/>
 </div>
-
 <!--
 **IvanDok13/IvanDok13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
