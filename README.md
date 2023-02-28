@@ -39,7 +39,9 @@
 
 ### My CodeWarrior profile
 <div id="CodeWars" align="center">
-	<img src="https://www.codewars.com/users/IvanDok/badges/large"/>
+	<a href="https://www.codewars.com/users/IvanDok"> 
+		<img src="https://www.codewars.com/users/IvanDok/badges/large" >
+	</a>
 </div>
 <!--
 **IvanDok13/IvanDok13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
