@@ -39,8 +39,8 @@
 
 ### My CodeWarrior profile
 <div id="CodeWars" align="center">
-	<a href="https://www.codewars.com/users/rsschool_5bb3f79998ed1d87"> 
-		<img src="https://www.codewars.com/users/rsschool_5bb3f79998ed1d87/badges/large" >
+	<a href="https://www.codewars.com/users/IvanDok"> 
+		<img src="https://www.codewars.com/users/IvanDok/badges/large" >
 	</a>
 </div>
 <!--
