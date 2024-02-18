@@ -15,7 +15,7 @@
 ### About me
 - 🌱 I’m currently learning **React**
 - 🔎 I'm looking for a job
-- 📄 Know about my experiences [CV](https://cv.hexlet.io/resumes/2073)
+- 📄 Know about my experiences [CV](https://ivandok13.github.io/rsschool-cv/cv)
 - 📫 Reach me by [Email](mailto:klochkov.ivan.sergeevich@gmail.com), [Telegram](https://t.me/Dokivan) or [Discord]( https://discordapp.com/users/IvanDok13/) 
 - 🌍 I speak Russian and English
 - ✈️ I'm ready to relocate because I love to travel too much
