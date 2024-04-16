@@ -33,16 +33,16 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" title="eslint" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" title="VIM" width="40" height="40"/>&nbsp;
 
-### My stats
-<div id="stat" align="center">
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IvanDok13&theme=default"/>
-</div>
-
 ### My CodeWarrior profile
 <div id="CodeWars" align="center">
 	<a href="https://www.codewars.com/users/rsschool_5bb3f79998ed1d87"> 
 		<img src="https://www.codewars.com/users/rsschool_5bb3f79998ed1d87/badges/large" >
 	</a>
+</div>
+
+### My stats
+<div id="stat" align="center">
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IvanDok13&theme=default"/>
 </div>
 <!--
 **IvanDok13/IvanDok13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
