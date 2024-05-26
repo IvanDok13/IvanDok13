@@ -34,6 +34,16 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" title="eslint" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" title="VIM" width="40" height="40"/>&nbsp;
 
+### Projects
+1. [Coffe-house](https://rolling-scopes-school.github.io/ivandok13-JSFE2023Q4/coffee-house/pages/main/)
+2. [Image-gallery](https://rolling-scopes-school.github.io/ivandok13-JSFEPRESCHOOL2023Q2/image-galery/)
+3. [Nonograms-game](https://rolling-scopes-school.github.io/ivandok13-JSFE2023Q4/nonograms/)
+4. [Video Player](https://rolling-scopes-school.github.io/ivandok13-JSFEPRESCHOOL2023Q2/custom-video/)
+5. [Library](https://rolling-scopes-school.github.io/ivandok13-JSFEPRESCHOOL2023Q2/library/)
+6. [Car-Slider-Project](https://ivandok13.github.io/slide-project/)
+7. [Traveling-site](https://ivandok13.github.io/traveling-site/) 
+8. [Hangman-game](https://rolling-scopes-school.github.io/ivandok13-JSFE2023Q4/)
+
 ### My CodeWarrior profile
 <div id="CodeWars" align="center">
 	<a href="https://www.codewars.com/users/rsschool_5bb3f79998ed1d87"> 
