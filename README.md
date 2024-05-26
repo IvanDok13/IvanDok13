@@ -40,9 +40,8 @@
 3. [Nonograms-game](https://rolling-scopes-school.github.io/ivandok13-JSFE2023Q4/nonograms/)
 4. [Video Player](https://rolling-scopes-school.github.io/ivandok13-JSFEPRESCHOOL2023Q2/custom-video/)
 5. [Library](https://rolling-scopes-school.github.io/ivandok13-JSFEPRESCHOOL2023Q2/library/)
-6. [Car-Slider-Project](https://ivandok13.github.io/slide-project/)
-7. [Traveling-site](https://ivandok13.github.io/traveling-site/) 
-8. [Hangman-game](https://rolling-scopes-school.github.io/ivandok13-JSFE2023Q4/)
+6. [Traveling-site](https://ivandok13.github.io/traveling-site/) 
+7. [Hangman-game](https://rolling-scopes-school.github.io/ivandok13-JSFE2023Q4/)
 
 ### My CodeWarrior profile
 <div id="CodeWars" align="center">
