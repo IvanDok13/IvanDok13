@@ -18,7 +18,6 @@
 - 📄 Know about my experiences [CV](https://ivandok13.github.io/rsschool-cv/cv)
 - 📫 Reach me by [Email](mailto:klochkov.ivan.sergeevich@gmail.com), [Telegram](https://t.me/Dokivan) or [Discord]( https://discordapp.com/users/IvanDok13/) 
 - 🌍 I speak Russian and English
-- ✈️ I love to travel too much
 - ⚡ Fun fact: I buy my electronic devices for free
 
 ### Languages and tools
