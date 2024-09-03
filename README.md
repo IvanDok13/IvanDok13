@@ -64,6 +64,17 @@
 
 Для меня важно: быть частью коллектива, уважение коллег и руководителей, удобный график работы и осознание своей ценности для команды.  
 
+I am a researcher scientist with a Master`s degree, with 7 years work experiens in laser tech. For two years I'm passionate about software development.
+
+I enjoy coming up with new ideas, building new projects. I'm always learning new technologies, frameworks, and libraries. I really love algoritmic tasks on codewars.
+
+Most of my work finds direct industrial applications. I am currently . 
+
+
+I enjoy taking cool ideas and turning them into powerful practical outcomes. 
+
+I am currently looking for my next opportunity so please reach out. 
+
 Here are some ideas to get you started:
 
 
