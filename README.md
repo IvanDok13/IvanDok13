@@ -3,7 +3,7 @@
 	<h3>JavaScript Front-end Developer</h3>
 </div>
 
-<div id="socials" align="center"> 
+<div id="socials" align="center">
 	<a href="https://mail.google.com/mail/u/1/#inbox">
 		<img src="https://img.shields.io/badge/gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 	</a>
