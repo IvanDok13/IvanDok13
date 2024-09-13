@@ -75,7 +75,6 @@ I enjoy taking cool ideas and turning them into powerful practical outcomes.
 
 I am currently looking for my next opportunity so please reach out. 
 
-Worked as a research associate in the field of instrument engineering and laser engineering for 7 years. Thanks to my responsible attitude to work, efficiency and ability to set tasks independently, I was offered the position of junior researcher. Since then, for 2 years, I was engaged in developments and worked in the field of instrumentation. Then I received the position of researcher and began to independently plan research, write reports, assemble models and stands.
 
 Assembled more than 50 solid-state laser emitters, conducted many scientific experiments, the results of which contributed to the creation of new devices, designs or units. Developed a technique that increased the reliability of the manufactured laser emitters. I have experience interacting with oscilloscopes, current probes, photodetectors, multimeters, soldering stations and other devices.
 
