@@ -76,7 +76,7 @@ I enjoy taking cool ideas and turning them into powerful practical outcomes.
 I am currently looking for my next opportunity so please reach out. 
 
 
-Assembled more than 50 solid-state laser emitters, conducted many scientific experiments, the results of which contributed to the creation of new devices, designs or units. Developed a technique that increased the reliability of the manufactured laser emitters. I have experience interacting with oscilloscopes, current probes, photodetectors, multimeters, soldering stations and other devices.
+
 
 Worked in related fields as: research associate, optical mechanic, engineer, technician. Interacted with the quality control department, testing laboratories, mechanical section, communicated with suppliers, was engaged in product refinement. I want to develop in the field of instrumentation.
 
