@@ -76,7 +76,6 @@ I enjoy taking cool ideas and turning them into powerful practical outcomes.
 I am currently looking for my next opportunity so please reach out. 
 
 
-
 Worked in related fields as: research associate, optical mechanic, engineer, technician. Interacted with the quality control department, testing laboratories, mechanical section, communicated with suppliers, was engaged in product refinement. I want to develop in the field of instrumentation.
 
 I have been interested in computers since childhood. I have worked with almost all known brands of laptops. I can figure out and fix most household appliances and devices. I am a very active person, so I value every free minute and try to manage my time wisely. I can read technical documentation, wrote articles and communicate in English.
