@@ -85,6 +85,50 @@ Hello. I have experience in the aerospace industry. I assembled and tested laser
 
 After receiving my Master's degree in Laser Engineering and Laser Technology, I worked as a researcher in the field of laser engineering for 7 years. I have extensive experience in conducting experiments, observing and writing reports. In addition, I am interested in contributing to the described research and preserving the cultural heritage of mankind. For this reason, I believe that I am a perfect match for the requirements of the vacancy.
 
+
+
+I prefer work from 8 a.m. to 4 p.m. I am flexible, 
+
+love for programming, motivating a team and maintaining life balance
+
+I use React in some projects. In my opinion, it is the best way to create more complex and powerful applications with many lines of code. With this framework, the code is easier to write and you can optimize such tasks as code duplication, creating a single-page application or several similar buttons.
+
+respectful attitude towards other people's code, hints on how to fix this or that error, before correcting someone find out whether there really is an error.
+
+A good pull request has a clear title that reflects the changes. A detailed and well-written description. It should contain a small number of changes related to a single feature. It should be covered by tests to ensure that it does not break functionality or introduce new bugs. It should also adhere to the standard adopted by the team or company.
+
+A good pull request thus facilitates quick merges and facilitates review by other participants.
+
+A bad PR makes it difficult for other participants to accept the changes. It is misleading, contains errors, violates established standards, and can negatively affect the work of the entire project.
+
+
+JavaScript (JS) and TypeScript (TS) are both programming languages that share similarities and differences. Here's a comparison of their characteristics:
+
+Similarities
+
+High-level languages: Both JS and TS are high-level languages, meaning they abstract away low-level details and provide a more readable syntax.
+Dynamic typing: Both JS and TS are dynamically typed, meaning you don't need to declare variable types before using them.
+Run-time type checking: Both languages perform type checking at runtime, allowing for flexibility and dynamic behavior.
+Support for object-oriented programming: Both JS and TS support object-oriented programming (OOP) concepts, such as classes, inheritance, and encapsulation.
+Differences
+
+Purpose: JS is a general-purpose language used for web development, front-end and back-end development, and scripting. TS is a superset of JS, adding static type checking and other features to enhance development and maintainability.
+Syntax: JS has a more traditional syntax, with a focus on readability. TS introduces additional syntax for type annotations and other features.
+Type System: JS is dynamically typed, meaning you don't need to declare variable types before using them. TS is a statically typed language, allowing you to specify types for variables, function parameters, and return values.
+Compilation and transpilation: JS is interpreted, meaning it is executed directly by the runtime environment. TS is a superset of JS and is transpiled into JS, allowing for static type checking and additional features.
+
+“Clean Code”, Robert Martin
+“Eloquent JavaScript”, Marijn Haverbeke
+
+VSCode I really like this IDE because it has very broad support, there are many convenient extensions and settings. Linter ESLint and formatter Prettier because they make coding and debugging much easier. VITE because it is much more convenient and understandable than other builders. Sometimes I use AI to find the most interesting version of the code, edit the text, get an answer to my question and get out of the stupor
+
+I have an apple macbook air m1. I have a powerful wifi router at home that works on 6G technology.
+I can also share the internet from my phone. I am willing to change the computer and improve the internet connection for work.
+
+I expect a salary of $5,000. Maybe I didn't fully understand the compensation question
+
+If hired, will I be able to work from the U.S. office occasionally? I want to communicate with my colleagues
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
