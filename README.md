@@ -102,20 +102,7 @@ A good pull request thus facilitates quick merges and facilitates review by othe
 A bad PR makes it difficult for other participants to accept the changes. It is misleading, contains errors, violates established standards, and can negatively affect the work of the entire project.
 
 
-JavaScript (JS) and TypeScript (TS) are both programming languages that share similarities and differences. Here's a comparison of their characteristics:
 
-Similarities
-
-High-level languages: Both JS and TS are high-level languages, meaning they abstract away low-level details and provide a more readable syntax.
-Dynamic typing: Both JS and TS are dynamically typed, meaning you don't need to declare variable types before using them.
-Run-time type checking: Both languages perform type checking at runtime, allowing for flexibility and dynamic behavior.
-Support for object-oriented programming: Both JS and TS support object-oriented programming (OOP) concepts, such as classes, inheritance, and encapsulation.
-Differences
-
-Purpose: JS is a general-purpose language used for web development, front-end and back-end development, and scripting. TS is a superset of JS, adding static type checking and other features to enhance development and maintainability.
-Syntax: JS has a more traditional syntax, with a focus on readability. TS introduces additional syntax for type annotations and other features.
-Type System: JS is dynamically typed, meaning you don't need to declare variable types before using them. TS is a statically typed language, allowing you to specify types for variables, function parameters, and return values.
-Compilation and transpilation: JS is interpreted, meaning it is executed directly by the runtime environment. TS is a superset of JS and is transpiled into JS, allowing for static type checking and additional features.
 
 “Clean Code”, Robert Martin
 “Eloquent JavaScript”, Marijn Haverbeke
