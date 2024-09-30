@@ -102,7 +102,6 @@ A bad PR makes it difficult for other participants to accept the changes. It is 
 
 
 
-
 “Clean Code”, Robert Martin
 “Eloquent JavaScript”, Marijn Haverbeke
 
