@@ -13,12 +13,15 @@
 </div>
 
 ### About me
-- 🌱 I’m currently learning **React**
 - 🔎 I'm looking for a job
+- Researcher with a Master's degree and 7 years of experience in laser technologies.
+- I have been passionate about client-side software development for 2 years.
+- Created 10+ projects in JS, HTML, CSS, React, TS in various web & mobile based versions.
+- Beyond that, my front-end work is based on clean, modular code that is both efficient and maintainable.
+- I’m always open to new challenges, innovative ideas, and collaborations that push the boundaries of what the web can do.
 - 📄 Know about my experiences [CV](https://ivandok13.github.io/rsschool-cv/cv)
 - 📫 Reach me by [Email](mailto:klochkov.ivan.sergeevich@gmail.com), [Telegram](https://t.me/Dokivan) or [Discord]( https://discordapp.com/users/IvanDok13/) 
 - 🌍 I speak Russian and English
-- ⚡ Fun fact: I buy my electronic devices for free
 
 ### Languages and tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="html" width="40" height="40"/>&nbsp; 
@@ -122,4 +125,11 @@ If hired, will I be able to work from the U.S. office occasionally? I want to co
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- - 🌱 I’m currently learning **React**
+- 🔎 I'm looking for a job
+- 📄 Know about my experiences [CV](https://ivandok13.github.io/rsschool-cv/cv)
+- 📫 Reach me by [Email](mailto:klochkov.ivan.sergeevich@gmail.com), [Telegram](https://t.me/Dokivan) or [Discord]( https://discordapp.com/users/IvanDok13/) 
+- 🌍 I speak Russian and English
+- ⚡ Fun fact: I buy my electronic devices for free
 -->
