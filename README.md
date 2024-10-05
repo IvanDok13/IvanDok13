@@ -104,7 +104,6 @@ A good pull request thus facilitates quick merges and facilitates review by othe
 A bad PR makes it difficult for other participants to accept the changes. It is misleading, contains errors, violates established standards, and can negatively affect the work of the entire project.
 
 
-
 “Clean Code”, Robert Martin
 “Eloquent JavaScript”, Marijn Haverbeke
 
