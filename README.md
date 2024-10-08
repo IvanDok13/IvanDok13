@@ -88,7 +88,6 @@ Hello. I have experience in the aerospace industry. I assembled and tested laser
 
 After receiving my Master's degree in Laser Engineering and Laser Technology, I worked as a researcher in the field of laser engineering for 7 years. I have extensive experience in conducting experiments, observing and writing reports. In addition, I am interested in contributing to the described research and preserving the cultural heritage of mankind. For this reason, I believe that I am a perfect match for the requirements of the vacancy.
 
-
 I prefer work from 8 a.m. to 4 p.m. I am flexible, 
 
 love for programming, motivating a team and maintaining life balance
