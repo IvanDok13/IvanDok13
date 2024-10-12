@@ -110,9 +110,11 @@ VSCode I really like this IDE because it has very broad support, there are many 
 I have an apple macbook air m1. I have a powerful wifi router at home that works on 6G technology.
 I can also share the internet from my phone. I am willing to change the computer and improve the internet connection for work.
 
-I expect a salary of $5,000. Maybe I didn't fully understand the compensation question
+· Performed routine maintenance and repairs on laser equipment. To ensure optimum performance of mechanical and electrical systems. This included replacing components, cleaning optics, and calibrating systems.
 
-If hired, will I be able to work from the U.S. office occasionally? I want to communicate with my colleagues
+· Conducted regular inspections and testing of laser systems to ensure they meet safety and performance standards. Document and report any anomalies or problem areas.
+
+· Compiles and maintains accurate records and reports.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
