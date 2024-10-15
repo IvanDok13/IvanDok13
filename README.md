@@ -20,7 +20,7 @@
 - Beyond that, my front-end work is based on clean, modular code that is both efficient and maintainable.
 - I’m always open to new challenges, innovative ideas, and collaborations that push the boundaries of what the web can do.
 - 📄 Know about my experiences [CV](https://ivandok13.github.io/rsschool-cv/cv)
-- 📫 Reach me by [Email](mailto:klochkov.ivan.sergeevich@gmail.com), [Telegram](https://t.me/Dokivan) or [Discord]( https://discordapp.com/users/IvanDok13/) 
+- 📫 Reach me by [LinkedIn](https://www.linkedin.com/in/klochkov-dev/), [Email](mailto:klochkov.ivan.sergeevich@gmail.com), [Telegram](https://t.me/Dokivan) or [Discord]( https://discordapp.com/users/IvanDok13/) 
 - 🌍 I speak Russian and English
 
 ### Languages and tools
