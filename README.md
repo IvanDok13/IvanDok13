@@ -74,7 +74,6 @@ I enjoy coming up with new ideas, building new projects. I'm always learning new
 
 Most of my work finds direct industrial applications. I am currently . 
 
-
 I enjoy taking cool ideas and turning them into powerful practical outcomes. 
 
 I am currently looking for my next opportunity so please reach out. 
