@@ -13,10 +13,8 @@
 </div>
 
 ### About me
-- 🔎 I'm looking for a job
-- Researcher with a Master's degree and 7 years of experience in laser technologies.
-- I have been passionate about client-side software development for 2 years.
-- Created 10+ projects in JS, HTML, CSS, React, TS in various web & mobile based versions.
+- Software Developer with a Master's degree and 4 years of experience.
+- Created 20+ projects in JS, HTML, CSS, React, TS in various web & mobile based versions.
 - Beyond that, my front-end work is based on clean, modular code that is both efficient and maintainable.
 - I’m always open to new challenges, innovative ideas, and collaborations that push the boundaries of what the web can do.
 - 📄 Know about my experiences [CV](https://ivandok13.github.io/rsschool-cv/cv)
@@ -45,6 +43,7 @@
 5. [Library](https://rolling-scopes-school.github.io/ivandok13-JSFEPRESCHOOL2023Q2/library/)
 6. [Traveling-site](https://ivandok13.github.io/traveling-site/) 
 7. [Hangman-game](https://rolling-scopes-school.github.io/ivandok13-JSFE2023Q4/)
+8. [Christmas-shop](https://rolling-scopes-school.github.io/ivandok13-JSFE2024Q4/christmas-shop/pages/home/)
 
 ### My CodeWarrior profile
 <div id="CodeWars" align="center">
@@ -60,15 +59,7 @@
 <!--
 **IvanDok13/IvanDok13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Я успешно работал 7 лет научным сотрудником в крупной дочерней корпорации Роскосмоса. Разрабатывал методы исследования, писал документацию, участвовал в экспериментах и занимался другой научной деятельностью. В какой-то момент, когда я делал математическую модель физического явления я осознал что мне нравится писать код и видеть результаты его работы. На протяжении года после 8 часового рабочего дня я приходил домой и до поздней ночи осваивал HTML, CSS, JS, GIT, TS и другие технологии. 
-
-Программирование оказалось очень интересной областью для меня. Это та самая возможность реализовать свой интеллектуальный потенциал. Поэтому я хочу развиваться в этой сфере и укреплять свои навыки и знания.
-
-Также, сравнивая с наукой, меня гораздо больше привлекает компания молодых ребят которые работают в IT чем куча заносчивых профессоров. 
-
-Для меня важно: быть частью коллектива, уважение коллег и руководителей, удобный график работы и осознание своей ценности для команды.  
-
-I am a researcher scientist with a Master`s degree, with 7 years work experiens in laser tech. For two years I'm passionate about software development.
+For two years I'm passionate about software development.
 
 I enjoy coming up with new ideas, building new projects. I'm always learning new technologies, frameworks, and libraries. I really love algoritmic tasks on codewars.
 
