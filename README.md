@@ -13,7 +13,7 @@
 </div>
 
 ### About me
-- Software Developer with a Master's degree and 4 years of experience.
+- Software Developer with a Master's degree and 3 years of experience.
 - Created 20+ projects in JS, HTML, CSS, React, TS in various web & mobile based versions.
 - Beyond that, my front-end work is based on clean, modular code that is both efficient and maintainable.
 - I’m always open to new challenges, innovative ideas, and collaborations that push the boundaries of what the web can do.
