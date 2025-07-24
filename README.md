@@ -11,6 +11,7 @@
 		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 	</a>
 </div>
+
 ### About me
 - Software Developer with a Master's degree and 3 years of experience.
 - Created 20+ projects in JS, HTML, CSS, React, TS in various web & mobile based versions.
