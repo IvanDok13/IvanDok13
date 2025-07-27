@@ -10,6 +10,9 @@
 	<a href="https://t.me/Dokivan">
 		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 	</a>
+	<a href="https://www.linkedin.com/in/klochkov-dev/">
+		<img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+	</a>
 </div>
 
 ### About me
