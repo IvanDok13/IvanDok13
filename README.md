@@ -31,7 +31,7 @@
 - 🧩 Design **clean component architectures**, shared UI kits, and **type-safe APIs**.
 - ⚙️ Set up **CI, linting, tests**, and performance budgets for smooth DX.
 - 🤝 Collaborate well: clear PRs, thoughtful reviews, stable delivery.
-- <img src="https://www.codewars.com/users/rsschool_5bb3f79998ed1d87/badges/micro" alt="Codewars score"/> [Codewars Profile](https://www.codewars.com/users/rsschool_5bb3f79998ed1d87)
+- <img src="https://www.codewars.com/users/rsschool_5bb3f79998ed1d87/badges/micro" alt="Codewars score"/> Codewars Profile: [IvanDok - profile](https://www.codewars.com/users/rsschool_5bb3f79998ed1d87)
 
 ---
 
@@ -109,9 +109,12 @@
 - A high-performance image gallery that implements a dynamic masonry layout for optimal use of screen space. It includes client-side instant search and filtering. The gallery is optimized for speed with progressive image loading techniques, ensuring a snappy and engaging user experience, especially on mobile devices.
 
 </details>
+
 <br>
+
 <details>
 <summary><b>Some of my projects</b></summary>
+
 
 1. [Pokemon Finder](https://ivandok13.github.io/react-ts-app/)
 2. [Coffe-house](https://rolling-scopes-school.github.io/ivandok13-JSFE2023Q4/coffee-house/pages/main/)
