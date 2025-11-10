@@ -58,8 +58,6 @@
   <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" title="Docker" width="45"/></a>
   <a href="https://figma.com/"><img src="https://skillicons.dev/icons?i=figma" title="Figma" width="45"/></a>
   <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" title="Postman" width="45"/></a>
-	<a href="https://eslint.org/"><img src="https://skillicons.dev/icons?i=eslint" title="ESLint" width="45"/></a>
-  <a href="https://prettier.io/"><img src="https://skillicons.dev/icons?i=prettier" title="Prettier" width="45"/></a>
 </p>
 
 - **UI:** React, Next.js (App Router, RSC), React Router
