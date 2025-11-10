@@ -140,4 +140,4 @@
 I’m open to **Front-End Engineer** roles and **freelance**.  
 If you’re hiring, I can share short code samples or walk through project decisions on a call.
 
-**Telegram:** [Dokivan](https://t.me/Dokivan) • **Email:** [klochkov.ivan.sergeevich@gmail.com](mailto:klochkov.ivan.sergeevich@gmail.com) • **LinkedIn:** [Klochkov-dev](https://www.linkedin.com/in/klochkov-dev/)
+**Telegram:** [Dokivan](https://t.me/Dokivan) • **Email:** [klochkov.ivan.sergeevich@gmail.com](mailto:klochkov.eng@gmail.com) • **LinkedIn:** [Klochkov-dev](https://www.linkedin.com/in/klochkov-dev/)
