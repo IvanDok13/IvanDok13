@@ -27,7 +27,7 @@
 
 ## What I do (and why it helps your team)
 
-- 🚀 Build **fast, accessible** front-ends with **React/Next.js/Redux + TypeScript/JavaScript**.
+- 🚀 Build **fast, accessible** apps with **React/Next.js/Redux + TypeScript/JavaScript**.
 - 🧩 Design **clean component architectures**, shared UI kits, and **type-safe APIs**.
 - ⚙️ Set up **CI, linting, tests**, and performance budgets for smooth DX.
 - 🤝 Collaborate well: clear PRs, thoughtful reviews, stable delivery.
