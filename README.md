@@ -112,7 +112,7 @@
 <br>
 
 <details>
-<summary><b>Some of my projects</b></summary>
+<summary><b>Some of my other projects</b></summary>
 
 
 1. [Pokemon Finder](https://ivandok13.github.io/react-ts-app/)
