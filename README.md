@@ -42,6 +42,7 @@
 ## Core stack
 
 <p align="center">
+  <a href="https://js.dev/"><img src="https://skillicons.dev/icons?i=js" title="js" width="45"/></a>
   <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" title="React" width="45"/></a>
   <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" width="45"/></a>
   <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" title="TypeScript" width="45"/></a>
