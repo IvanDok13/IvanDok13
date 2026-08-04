@@ -73,7 +73,7 @@
 
 ---
 
-## Featured projects (impact > links)
+## Featured projects
 
 **[Pokemon Finder - React/Redux & TypeScript app](https://ivandok13.github.io/react-ts-app)**<details> <summary>Browse and search the Pokemon universe with a clean, modern interface and APIs.</summary>
 
