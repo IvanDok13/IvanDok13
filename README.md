@@ -2,7 +2,7 @@
 
 # Hi, I'm Ivan 🌴
 
-### Fullstack Engineer - Software developer — React · Next.js · Node.js · Redux · TypeScript · JavaScript
+### Fullstack Engineer / Web/Application/Software developer /  — React · Next.js · Node.js · Redux · TypeScript · JavaScript
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=18&pause=1200&color=8B5CF6&center=true&vCenter=true&width=720&lines=I+ship+fast%2C+accessible%2C+type-safe+UIs;Clean+architecture+%7C+Great+DX+%7C+Performance;Open+to+Software+developers+roles+and+freelance" alt="typing intro"/>
 
