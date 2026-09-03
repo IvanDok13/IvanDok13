@@ -9,7 +9,7 @@ React · Next.js · Node.js · Redux · TypeScript · JavaScript
 
 <br/>
 
-<a href="mailto:klochkov.ivan.sergeevich@gmail.com">
+<a href="mailto:klochkov.eng@gmail.com">
   <img alt="Email" src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 <a href="https://t.me/Dokivan">
@@ -142,4 +142,4 @@ React · Next.js · Node.js · Redux · TypeScript · JavaScript
 I’m open to **Front-End Engineer** roles and **freelance**.  
 If you’re hiring, I can share short code samples or walk through project decisions on a call.
 
-**Telegram:** [Dokivan](https://t.me/Dokivan) • **Email:** [klochkov.ivan.sergeevich@gmail.com](mailto:klochkov.eng@gmail.com) • **LinkedIn:** [Klochkov-dev](https://www.linkedin.com/in/klochkov-dev/)
+**Telegram:** [Dokivan](https://t.me/Dokivan) • **Email:** [klochkov.eng@gmail.com](mailto:klochkov.eng@gmail.com) • **LinkedIn:** [Klochkov-dev](https://www.linkedin.com/in/klochkov-dev/)
